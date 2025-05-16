@@ -1,5 +1,5 @@
 # Pygame-Runner-Game
 
 
-Please run Game.py using 
-``` python3 Game.py ```
+Please run game.py using 
+``` python3 game.py ```
